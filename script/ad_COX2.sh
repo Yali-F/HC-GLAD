@@ -1,0 +1,1 @@
+python main.py -exp_type ad -DS COX2 -num_epoch 2000 -num_layers 2 -GNN_Encoder GCN -weight_decay 0.15 -eval_freq 5 -hidden_dim 32 -rw_dim 8 -dg_dim 8 -a 0.2 -b 0.8                   

@@ -1,0 +1,1 @@
+python main.py -exp_type ad -DS Tox21_PPAR-gamma -num_epoch 2000 -num_layers 4 -GNN_Encoder GCN -weight_decay 0.15 -hidden_dim 8 -rw_dim 8 -dg_dim 8 -eval_freq 5 -a 0.5 -b 0.5                  

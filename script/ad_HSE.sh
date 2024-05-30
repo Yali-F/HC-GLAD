@@ -1,0 +1,1 @@
+python main.py -exp_type ad -DS Tox21_HSE -num_epoch 2000 -num_layers 2 -GNN_Encoder GCN -weight_decay 0.15 -eval_freq 5 -hidden_dim 4 -rw_dim 4 -dg_dim 4 -a 0.8 -b 0.2             

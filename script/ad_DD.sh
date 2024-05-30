@@ -1,0 +1,1 @@
+python main.py -exp_type ad -DS DD -batch_size 16 -batch_size_test 16 -num_epoch 600 -num_layers 3 -GNN_Encoder GCN -weight_decay 0.15 -eval_freq 5 -hidden_dim 4 -rw_dim 2 -dg_dim 2 -a 0.5 -b 0.5                   

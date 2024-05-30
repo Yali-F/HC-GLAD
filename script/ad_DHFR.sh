@@ -1,0 +1,1 @@
+python main.py -exp_type ad -DS DHFR -num_epoch 1000 -num_layers 2 -GNN_Encoder GCN -weight_decay 0.15 -eval_freq 5 -hidden_dim 16 -rw_dim 8 -dg_dim 8 -a 0.5 -b 0.5                                
