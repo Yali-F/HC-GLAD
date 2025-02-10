@@ -26,7 +26,6 @@ class Encoder(nn.Module):
 
 
 
-# HICF 中 hyperbolic HGCN
 class HGCN(Encoder):                                                                                      
     def __init__(self, c, args):
         super(HGCN, self).__init__(c)
